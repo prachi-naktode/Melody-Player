@@ -1,0 +1,7 @@
+npm install
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install axios
+npm install Zustand
+npm install --save-dev tailwind-scrollbar
+npm run dev
