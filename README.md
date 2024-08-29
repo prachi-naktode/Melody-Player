@@ -1,4 +1,6 @@
-# A React + vite based music player application with a modern UI. The music player allows a user to play various media file and allow control of Pause/Play/Stop feature
+# Media Player 
+
+A React + vite based music player application with a modern UI. The music player allows a user to play various media file and allow control of Pause/Play/Stop feature
 
 # Technology and Dependencies used
 
