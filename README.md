@@ -12,7 +12,7 @@ A React + vite based music player application with a modern UI. The music player
 
 # Project Features
 
-1. React-based frontend with responsive design
+1. React-based frontend with responsive design. In case of smaller screens, the player component is the main interface with a menu button to show a list of songs.
 2. Search functionality for songs and artists
 3. Music Control — Play/Pause/Next/Previous
 4. Tab change (e.g. For You to Top Tracks)
@@ -20,7 +20,7 @@ A React + vite based music player application with a modern UI. The music player
 6. Background gradient color changes according to the cover image of the song
 7. Continuous playback when switching tabs
 8. Project contain interactive UI with animations and transitions
-9. Hidden scrollbar for Music List.
+9. Hidden scrollbar for Music List in big screen.
 
 # API used
 
